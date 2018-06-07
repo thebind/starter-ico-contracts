@@ -1,0 +1,13 @@
+# Dependencies
+/node_modules
+
+# Hidden Files
+.DS_Store
+
+# Files
+package-lock.json
+
+secret.txt
+memo.txt
+
+/build.bak
